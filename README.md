@@ -124,7 +124,7 @@
 ## 🏆 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/laxmanalucky090-ux?theme=dark&font=Fira%20Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Laxmana_lucky?theme=dark&font=Fira%20Code&ext=contest" />
 </p>
 
 ---
