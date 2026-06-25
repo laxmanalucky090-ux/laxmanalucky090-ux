@@ -89,6 +89,17 @@
 
 ---
 
+### 🏫 [EduCampus](https://github.com/laxmanalucky090-ux/college-discovery-platform) — College Discovery Platform
+> Next.js 15 | TypeScript | TailwindCSS | Prisma | PostgreSQL | NextAuth.js | Vercel
+
+- 🔍 Real-time search and location filters across 39 colleges (IITs, NITs, AP & Telangana)
+- ⚖️ Side-by-side college comparison feature
+- 🔐 JWT authentication with bcrypt password hashing
+- ❤️ Save/favorite colleges for authenticated users
+- 🚀 [Live Demo](https://college-discovery-platform-o3vy.vercel.app)
+
+---
+
 ### 📊 Hospital Emergency Forecasting System
 > Python | Scikit-learn | Pandas | NumPy
 
