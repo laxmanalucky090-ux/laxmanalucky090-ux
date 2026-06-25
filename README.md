@@ -124,13 +124,25 @@
 ## 🏆 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Laxmana_lucky?theme=dark&font=Fira%20Code&ext=contest" />
+  <a href="https://leetcode.com/u/Laxmana_lucky/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Laxmana__lucky-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Solved-114%2B-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python3-98%20Problems-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-16%20Problems-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rank-1%2C419%2C688-red?style=for-the-badge&logo=leetcode" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Laxmana_lucky&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=laxmanalucky090-ux&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">⭐ <i>If you like my work, consider starring my repositories!</i> ⭐</p>
