@@ -130,7 +130,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laxmanalucky090-ux&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Laxmana_lucky&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">⭐ <i>If you like my work, consider starring my repositories!</i> ⭐</p>
